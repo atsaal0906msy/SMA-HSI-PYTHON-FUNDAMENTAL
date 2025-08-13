@@ -17,7 +17,7 @@ jumlah_kata = len(kata_kata)
 print(f"Jumlah kata dalam kalimat: {jumlah_kata}")
 
 # Mengurutkan kata-kata berdasarkan abjad
-kata_kata.sort()
+kata_kata.sort()     
 
 # Mencetak list yang sudah terurut
 print("Kata-kata yang sudah terurut berdasarkan abjad:")

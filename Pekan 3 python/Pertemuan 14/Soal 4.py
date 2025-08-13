@@ -20,3 +20,4 @@ c[1] = 30            # ubah elemen indeks 1 di c → tidak memengaruhi a/b
 print(f"a = {a}")
 print(f"b = {b}")
 print(f"c = {c}")
+      

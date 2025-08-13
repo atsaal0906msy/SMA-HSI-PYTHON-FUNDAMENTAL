@@ -10,10 +10,10 @@ belanjaan_makanan.append("Telur")
 belanjaan_makanan.append("Susu")
 belanjaan_makanan.append("Roti")
 
-belanjaan_makanan.insert(0,"Apel")
+belanjaan_makanan.insert(0,"Apel")  
 belanjaan_makanan.remove("Susu")
 
-print("kebutuhan yang di beli", belanjaan_makanan)
+print("kebutuhan yang di beli", belanjaan_makanan) 
 
 # hewan = ["kucing", "anjing", "burung", "kucing", "ikan"]
 # hewan.remove("kucing")
