@@ -16,7 +16,7 @@ belanjaan_makanan.remove("Susu")
 print("kebutuhan yang di beli", belanjaan_makanan) 
 
 # hewan = ["kucing", "anjing", "burung", "kucing", "ikan"]
-# hewan.remove("kucing")
+# hewan.remove("kucing") 
 # print(hewan) #
 
 # huruf = ['a', 'b', 'd', 'e']
